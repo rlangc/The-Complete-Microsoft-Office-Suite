@@ -1,4 +1,4 @@
-Microsoft Word: Beginner to Advanced
+## Microsoft Word
 
 This section offers a complete and structured exploration of Microsoft Word, guiding users through the full spectrum of features that make it one of the most powerful and widely used word-processing tools in the world. It begins with the essentials—how to create, save, and format documents—teaching users how to apply fonts, styles, bullet points, and alignment tools to produce polished, professional-looking content. Clear instructions are provided for inserting tables, images, and hyperlinks, giving beginners a strong foundation for everyday document creation.
 
