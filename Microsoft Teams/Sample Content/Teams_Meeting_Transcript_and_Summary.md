@@ -63,9 +63,9 @@
 
 | Question                                                                 | Answer                                                                 | Fully Answered? |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------|
-| Are accessibility features fully implemented in the new dashboard?      | ARIA labels included; keyboard navigation still in progress            | ❌ Partial       |
-| How are tags being stored and tracked?                                  | Stored in metadata only; no user interaction tracking                  | ✅ Yes           |
-| Does the tagging affect SCORM tracking?                                 | No direct impact; potential use in feedback analysis noted             | ✅ Yes           |
+| Are accessibility features fully implemented in the new dashboard?      | ARIA labels included; keyboard navigation still in progress            | Partial       |
+| How are tags being stored and tracked?                                  | Stored in metadata only; no user interaction tracking                  | Yes           |
+| Does the tagging affect SCORM tracking?                                 | No direct impact; potential use in feedback analysis noted             | Yes           |
 
 ## Action Items
 
