@@ -38,7 +38,7 @@ This quick reference guide provides a concise overview of essential features, sh
 | **Macros**  | Automate routine actions like opening forms or running reports. |
 | **Modules** | Hold custom VBA code for advanced automation and logic. |
 
-## 🔎 Essential Tools & Features
+## Essential Tools & Features
 
 - **Relationships Tool**:  
   - Found under **Database Tools → Relationships**  
@@ -68,7 +68,7 @@ This quick reference guide provides a concise overview of essential features, sh
 | Yes/No         | Boolean flags (true/false)       |
 | Lookup Wizard  | Dropdown selection from a list   |
 
-## 🧠 Tips for Working Smarter
+## Tips for Working Smarter
 
 - **Always name fields and objects descriptively** (e.g., `CustomerID`, not `Field1`).
 - **Use lookup fields** for consistency in form inputs.
