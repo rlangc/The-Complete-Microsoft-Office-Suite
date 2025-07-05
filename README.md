@@ -1,4 +1,4 @@
-# Microsoft Office Suite – Complete User & Installation Guide
+# Microsoft Office Suite – Complete End-User Guide
 
 This repository serves as a comprehensive resource hub for Microsoft Office products, providing users with a complete suite of step-by-step user guides, installation instructions, how-to articles, best practices, tips, and productivity tools. Structured to support learners and professionals at all levels, the content progresses from foundational beginner concepts to advanced functionality and automation across core applications including Word, Excel, PowerPoint, Outlook, OneNote, Access, and Teams.
 
