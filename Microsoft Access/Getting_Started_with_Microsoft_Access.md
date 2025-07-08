@@ -2,13 +2,9 @@
 
 This beginner-level guide introduces new users to Microsoft Access, providing a clear overview of the application’s core concepts, interface, and tools. It is designed to help users confidently navigate Access and begin building simple, well-structured databases.
 
----
-
 ## Overview of Microsoft Access
 
 Microsoft Access is a desktop database management system that combines the relational power of a database with an easy-to-use interface for managing data through tables, forms, queries, and reports. It is ideal for small- to mid-sized applications and is often used for tracking records, automating processes, and generating structured reports.
-
----
 
 ## Key Concepts and Components
 
@@ -20,8 +16,6 @@ Microsoft Access is a desktop database management system that combines the relat
 - **Macro**: Automates tasks such as opening a form or running a query.
 - **Module**: Contains custom Visual Basic for Applications (VBA) code.
 
----
-
 ## Access Interface Overview
 
 - **Navigation Pane**: Displays all database objects—tables, queries, forms, etc.
@@ -29,8 +23,6 @@ Microsoft Access is a desktop database management system that combines the relat
 - **Design View**: Used for structuring tables, forms, and queries.
 - **Datasheet View**: Used for viewing and entering data in table format.
 - **Status Bar**: Displays helpful messages and object-specific information.
-
----
 
 ## Creating a New Database
 
@@ -41,15 +33,11 @@ Microsoft Access is a desktop database management system that combines the relat
 
 Access will open a blank table in Datasheet View by default.
 
----
-
 ## Creating Your First Table
 
 - Use **Datasheet View** to enter field names and data directly.
 - Or switch to **Design View** to define field names, data types, and primary keys.
 - Save your table and name it clearly (e.g., `Customers`, `InventoryItems`).
-
----
 
 ## Tips for Getting Started
 
@@ -58,7 +46,5 @@ Access will open a blank table in Datasheet View by default.
 - Use primary keys to uniquely identify each record.
 - Keep data types consistent and appropriate to each field.
 - Save frequently and make use of "Compact and Repair Database" under File > Info.
-
----
 
 This guide establishes the groundwork for working in Microsoft Access and prepares users for deeper exploration into queries, forms, reports, and automation. Continue with the next guide to start building and linking database tables effectively.
