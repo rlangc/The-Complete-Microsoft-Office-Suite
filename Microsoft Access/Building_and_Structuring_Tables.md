@@ -2,13 +2,9 @@
 
 This guide explains how to create and structure tables in Microsoft Access, a core task in designing a reliable and efficient database. Tables serve as the foundation for all other Access components.
 
----
-
 ## Understanding Table Design
 
 Tables are made up of fields (columns) and records (rows). Each field holds a specific type of data (text, number, date, etc.), and each record contains a unique set of values.
-
----
 
 ## Creating Tables
 
@@ -23,8 +19,6 @@ Tables are made up of fields (columns) and records (rows). Each field holds a sp
 3. Set a Primary Key to ensure each record is unique.
 4. Save the table with a descriptive name (e.g., `Orders`, `Projects`).
 
----
-
 ## Field Data Types (Common)
 
 | Field Type   | Description                          |
@@ -37,15 +31,11 @@ Tables are made up of fields (columns) and records (rows). Each field holds a sp
 | Yes/No       | Boolean values (true/false)          |
 | Lookup       | Dropdown based on a list or query    |
 
----
-
 ## Primary Keys and Indexing
 
 - The **Primary Key** uniquely identifies each record.
 - Set this on a field like `CustomerID` or `InvoiceNumber`.
 - Use **Indexes** to improve query speed but avoid over-indexing.
-
----
 
 ## Best Practices
 
@@ -53,7 +43,5 @@ Tables are made up of fields (columns) and records (rows). Each field holds a sp
 - Avoid special characters or spaces in field names.
 - Do not store calculated values—calculate them with queries.
 - Normalize your data where possible to avoid redundancy.
-
----
 
 Structuring your tables effectively is crucial for accurate data entry, efficient queries, and scalable database design. Continue to the next guide to learn about database relationships and normalization.
