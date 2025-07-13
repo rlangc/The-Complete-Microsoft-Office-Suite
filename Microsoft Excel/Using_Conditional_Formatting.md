@@ -2,13 +2,9 @@
 
 This guide explains how to use conditional formatting to visually emphasize important data in Excel by automatically applying formatting based on cell values or conditions.
 
----
-
 ## What Is Conditional Formatting?
 
 Conditional formatting changes the appearance of a cell or range based on the values it contains. This helps highlight trends, outliers, or important information at a glance.
-
----
 
 ## Applying Basic Rules
 
@@ -18,8 +14,6 @@ Conditional formatting changes the appearance of a cell or range based on the va
 4. Adjust rule values and formatting as needed.
 5. Click OK to apply.
 
----
-
 ## Common Use Cases
 
 - Highlight values greater or less than a specified number.
@@ -27,14 +21,10 @@ Conditional formatting changes the appearance of a cell or range based on the va
 - Flag duplicates or blank cells.
 - Create heat maps of performance or scores.
 
----
-
 ## Managing Rules
 
 - Go to Conditional Formatting > Manage Rules.
 - View, edit, delete, or prioritize rules.
 - Use "Stop If True" to control cascading logic.
-
----
 
 Conditional formatting adds immediate visual feedback to your spreadsheet, improving analysis and decision-making.
