@@ -2,8 +2,6 @@
 
 This guide provides useful keyboard shortcuts and efficiency techniques to help users work faster and more effectively in Excel.
 
----
-
 ## Navigation Shortcuts
 
 - Move to the edge of data region: Ctrl + Arrow Key
@@ -11,15 +9,11 @@ This guide provides useful keyboard shortcuts and efficiency techniques to help 
 - Go to last used cell: Ctrl + End
 - Move between sheets: Ctrl + Page Up / Page Down
 
----
-
 ## Selection Shortcuts
 
 - Select entire column: Ctrl + Space
 - Select entire row: Shift + Space
 - Select entire worksheet: Ctrl + A
-
----
 
 ## Formatting Shortcuts
 
@@ -29,16 +23,12 @@ This guide provides useful keyboard shortcuts and efficiency techniques to help 
 - Format cells: Ctrl + 1
 - Insert date: Ctrl + ;
 
----
-
 ## Formula Shortcuts
 
 - Start a formula: =
 - Insert function: Shift + F3
 - Toggle absolute/relative reference: F4
 - AutoSum: Alt + =
-
----
 
 ## General Productivity Tips
 
