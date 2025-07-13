@@ -2,8 +2,6 @@
 
 This guide covers how to enrich notes by inserting attachments, images, and voice recordings into pages.
 
----
-
 ## Inserting Files
 
 - Go to Insert > File.
@@ -11,23 +9,17 @@ This guide covers how to enrich notes by inserting attachments, images, and voic
   - Insert File Attachment: adds as a downloadable file.
   - Insert Printout: embeds file pages visually.
 
----
-
 ## Adding Images
 
 - Insert > Pictures > From File or Online Pictures.
 - Resize and move images as needed.
 - Right-click > Set Picture as Background to fix in place.
 
----
-
 ## Embedding Audio and Video
 
 - Insert > Audio or Video.
 - Use for voice notes, meeting recordings, or lectures.
 - Playback available directly in the notebook.
-
----
 
 ## Copy and Paste Content
 
