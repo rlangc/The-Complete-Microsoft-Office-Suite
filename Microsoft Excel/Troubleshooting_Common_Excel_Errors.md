@@ -2,8 +2,6 @@
 
 This guide helps you understand and resolve frequently encountered Excel errors in formulas and functions.
 
----
-
 ## Common Errors and Fixes
 
 - `#DIV/0!`: Division by zero.
@@ -17,15 +15,11 @@ This guide helps you understand and resolve frequently encountered Excel errors 
 - `#N/A`: Data not found in lookup.
   - Confirm the lookup value and range.
 
----
-
 ## Debugging Tips
 
 - Use Formula Auditing (Formulas > Evaluate Formula).
 - Use F9 to preview part of a formula result.
 - Break complex formulas into parts to isolate issues.
-
----
 
 ## Preventive Measures
 
