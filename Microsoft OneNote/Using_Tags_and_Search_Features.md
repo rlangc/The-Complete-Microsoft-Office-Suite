@@ -2,8 +2,6 @@
 
 This guide shows how to use tags to mark important information and how to search efficiently across your notebooks.
 
----
-
 ## Applying Tags
 
 - Use built-in tags like:
@@ -11,23 +9,17 @@ This guide shows how to use tags to mark important information and how to search
 - Apply from the Home tab > Tags dropdown.
 - Use keyboard shortcut Ctrl + 1 for To Do tags.
 
----
-
 ## Creating Custom Tags
 
 - Scroll to the bottom of the Tags list.
 - Click “Customize Tags.”
 - Create new tags with custom names and icons.
 
----
-
 ## Searching Notes
 
 - Use the search bar in the top-right.
 - Choose scope: Current Page, Section, Notebook, or All Notebooks.
 - Results include tagged content, text, and handwriting.
-
----
 
 ## Tag Summaries
 
