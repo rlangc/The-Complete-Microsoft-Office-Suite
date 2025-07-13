@@ -2,15 +2,11 @@
 
 This guide helps users structure their notebooks using sections, section groups, and pages for improved navigation and content management.
 
----
-
 ## Working with Sections
 
 - Click “+ Section” to add a new tab.
 - Rename by right-clicking and selecting Rename.
 - Color-code sections for visual separation.
-
----
 
 ## Creating Pages and Subpages
 
@@ -19,14 +15,10 @@ This guide helps users structure their notebooks using sections, section groups,
   - Right-click > Make Subpage.
 - Drag pages to reorder or nest under parent pages.
 
----
-
 ## Using Section Groups
 
 - Group related sections into collapsible folders.
 - Right-click in notebook pane > New Section Group.
-
----
 
 ## Rearranging Notes
 
