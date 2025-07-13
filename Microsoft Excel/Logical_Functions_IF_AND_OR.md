@@ -2,8 +2,6 @@
 
 This guide introduces logical functions that allow your formulas to make decisions based on specific conditions.
 
----
-
 ## IF Function
 
 Basic syntax:
@@ -15,8 +13,6 @@ Example:
 ```
 =IF(A2 > 70, "Pass", "Fail")
 ```
-
----
 
 ## AND Function
 
@@ -30,8 +26,6 @@ Used inside IF:
 =IF(AND(A2 > 70, B2 = "Complete"), "Pass", "Hold")
 ```
 
----
-
 ## OR Function
 
 Returns TRUE if any one condition is true:
@@ -43,7 +37,5 @@ Used inside IF:
 ```
 =IF(OR(A2 > 70, B2 = "Complete"), "Pass", "Fail")
 ```
-
----
 
 Logical functions add dynamic decision-making to your formulas, allowing you to control what values are returned based on your data.
