@@ -2,8 +2,6 @@
 
 This guide explains how to use advanced lookup functions in Excel to retrieve data from tables efficiently, including VLOOKUP, INDEX-MATCH, and XLOOKUP.
 
----
-
 ## VLOOKUP
 
 Syntax:
@@ -20,8 +18,6 @@ Notes:
 - Searches vertically in the first column.
 - Use FALSE for exact matches.
 
----
-
 ## INDEX and MATCH
 
 Used together to provide more flexibility than VLOOKUP.
@@ -34,8 +30,6 @@ Example:
 Benefits:
 - Can search in any column or row.
 - Not limited to left-to-right lookups.
-
----
 
 ## XLOOKUP (Newer Versions)
 
@@ -52,7 +46,5 @@ Example:
 Advantages:
 - Replaces VLOOKUP and HLOOKUP.
 - More intuitive with better error handling.
-
----
 
 Choosing the right lookup function depends on your version of Excel and the flexibility you need. Mastering these tools will significantly enhance your data retrieval capabilities.
