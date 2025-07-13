@@ -2,8 +2,6 @@
 
 This guide shows how to create named ranges and apply dynamic formulas for clearer, more flexible spreadsheet design.
 
----
-
 ## What Is a Named Range?
 
 A named range assigns a readable label to a cell or range of cells.
@@ -17,15 +15,11 @@ Creating one:
 =Subtotal * TaxRate
 ```
 
----
-
 ## Benefits
 
 - Easier to read formulas.
 - Reduces errors and improves documentation.
 - Simplifies cross-sheet references.
-
----
 
 ## Dynamic Named Ranges
 
@@ -37,7 +31,5 @@ Example:
 ```
 
 This adjusts the range automatically as new data is entered.
-
----
 
 Using named ranges helps create self-documenting, adaptable spreadsheets especially useful in large or shared workbooks.
