@@ -32,4 +32,4 @@ Example:
 
 This adjusts the range automatically as new data is entered.
 
-Using named ranges helps create self-documenting, adaptable spreadsheets especially useful in large or shared workbooks.
+> Using named ranges helps create self-documenting, adaptable spreadsheets especially useful in large or shared workbooks.
