@@ -4,8 +4,6 @@ Time blocking is a powerful productivity technique that involves scheduling fixe
 
 This guide explains how to implement time blocking using Outlook's calendar and task tools, helping you prioritize key work and establish boundaries for better time management.
 
----
-
 ## Setting Up Time Blocks
 
 1. Open the **Outlook Calendar**.
@@ -16,15 +14,11 @@ This guide explains how to implement time blocking using Outlook's calendar and 
 
 > Tip: Block time for recurring activities like email triage, focused writing, or weekly planning.
 
----
-
 ## Using Categories and Flags
 
 - Assign **Color Categories** to types of tasks (e.g., Red = Urgent, Blue = Deep Work).
 - Use **Follow Up Flags** in emails and convert flagged items into task blocks.
 - Right-click any email > **Follow Up** > **Add Reminder** to integrate it into your calendar.
-
----
 
 ## Integrating Microsoft To Do
 
@@ -37,8 +31,6 @@ Sync tasks between **Microsoft To Do** and Outlook for centralized task manageme
 4. Tasks appear under the **Tasks** section in Outlook.
 5. Drag tasks into your calendar to block time for completion.
 
----
-
 ## Scheduling Recurring Task Sessions
 
 For habits or long-term projects:
@@ -46,16 +38,12 @@ For habits or long-term projects:
 - Include task links or attachments directly in the appointment body.
 - Prevent rescheduling by treating the block like a meeting with yourself.
 
----
-
 ## Best Practices
 
 - Review your calendar each morning and reassign time blocks as needed.
 - Limit meetings during deep work time blocks.
 - Include buffers between blocks to allow for breaks and transitions.
 - Use color-coding consistently to visually interpret your schedule.
-
----
 
 ## Summary
 
