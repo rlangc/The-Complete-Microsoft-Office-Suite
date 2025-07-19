@@ -86,8 +86,6 @@ Outlook provides basic tools for managing messages even at the beginner level:
 
 If you're using Outlook as part of Microsoft 365, your emails, calendar, and contacts will sync across desktop, web, and mobile apps. Simply sign into the same account to access your content from anywhere.
 
----
-
 ## Summary
 
 Getting started with Microsoft Outlook is the first step toward streamlined communication and time management. By familiarizing yourself with its interface, modules, and core features, you can begin using Outlook effectively for email, scheduling, contact management, and daily task tracking—all from a single, integrated platform.
