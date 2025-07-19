@@ -4,16 +4,12 @@ Shared calendars are essential for improving transparency and collaboration acro
 
 This guide walks through the process of creating and customizing shared calendars, setting permissions, and integrating them into daily workflow.
 
----
-
 ## Creating a Shared Calendar
 
 1. In Outlook, go to **Calendar** view.
 2. Select **Add Calendar** > **Create New Blank Calendar**.
 3. Name the calendar (e.g., “Team Projects”) and choose its location (e.g., Calendar folder).
 4. Click **OK**.
-
----
 
 ## Sharing and Permissions
 
@@ -29,8 +25,6 @@ This guide walks through the process of creating and customizing shared calendar
 
 > Tip: Delegates can manage events on your behalf and receive meeting requests.
 
----
-
 ## Overlaying Calendars
 
 To view multiple calendars together:
@@ -40,16 +34,12 @@ To view multiple calendars together:
 
 > Helpful for identifying open time slots or aligning group availability.
 
----
-
 ## Collaborating in Shared Calendars
 
 - Create appointments or events visible to all shared users.
 - Add meeting notes, files, or links directly in calendar entries.
 - Use color categories to tag events by project or priority.
 - Set recurring project check-ins and use reminders for accountability.
-
----
 
 ## Use Cases
 
@@ -58,16 +48,12 @@ To view multiple calendars together:
 - **Resource Scheduling**: Manage availability for shared rooms, labs, or vehicles.
 - **Content Calendars**: Organize campaigns, releases, or social media scheduling.
 
----
-
 ## Best Practices
 
 - Use clear naming conventions for calendars and events.
 - Keep access rights updated as team members join or leave.
 - Regularly clean up old events to maintain clarity.
 - Train team members on how to contribute and read shared calendars.
-
----
 
 ## Summary
 
