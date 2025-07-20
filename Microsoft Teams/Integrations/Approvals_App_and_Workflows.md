@@ -2,8 +2,6 @@
 
 The Approvals app in Microsoft Teams streamlines request and decision processes across your organization. Whether requesting time off, equipment, or project sign-off, this app integrates with Teams chats, channels, and Power Automate for end-to-end approval workflows.
 
----
-
 ## Overview
 
 Approvals enables:
@@ -12,8 +10,6 @@ Approvals enables:
 - Assigning approvers and tracking statuses
 - Viewing history and outcomes of submitted approvals
 - Automating multi-step workflows with Power Automate
-
----
 
 ## How to Use the Approvals App
 
@@ -35,8 +31,6 @@ Approvals enables:
    - **Received**: Requests awaiting your approval
    - **History**: All approvals with status and timestamps
 
----
-
 ## Creating Automated Approval Workflows
 
 1. Go to **Power Automate**: https://flow.microsoft.com
@@ -53,15 +47,11 @@ Approvals enables:
 | Purchase order approval       | SharePoint list item added  | Notify requester, update status   |
 | Document review sign-off      | File uploaded to folder     | Approval notification, move file  |
 
----
-
 ## Notifications and Tracking
 
 - Approvers receive Teams notifications and emails
 - Requesters are updated on status changes
 - All activities are logged for audit and reporting
-
----
 
 ## Governance and Security
 
@@ -69,16 +59,12 @@ Approvals enables:
 - Admins can manage access through app permission policies
 - Use DLP to control sensitive data within request content
 
----
-
 ## Best Practices
 
 - Use consistent naming conventions for approval titles
 - Archive completed approvals monthly for recordkeeping
 - Educate users on when to use Approvals vs. manual requests
 - Pair with adaptive cards for rich, interactive experiences
-
----
 
 ## Resources
 
