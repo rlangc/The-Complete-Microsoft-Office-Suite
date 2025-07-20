@@ -1,6 +1,6 @@
 # FAQs & Troubleshooting Wiki: Common Problems & Solutions
 
-## 📋 General FAQs
+## General FAQs
 
 ### 1. What is Microsoft Teams used for?
 Microsoft Teams is a collaboration platform that combines chat, video conferencing, file sharing, task management, and app integrations to streamline teamwork across organizations.
@@ -19,9 +19,7 @@ Yes, Microsoft offers a free version of Teams with limited features. Full featur
 - Add title, participants, date, and time.
 - Click **Save** to send invites.
 
----
-
-## ⚙️ Common Issues & Troubleshooting
+## Common Issues & Troubleshooting
 
 ### 1. Teams Won’t Open or Load
 
@@ -38,8 +36,6 @@ Yes, Microsoft offers a free version of Teams with limited features. Full featur
 - Update Teams.
 - Try using the web version at [teams.microsoft.com](https://teams.microsoft.com).
 
----
-
 ### 2. Can’t Sign In to Microsoft Teams
 
 **Possible Causes:**
@@ -52,8 +48,6 @@ Yes, Microsoft offers a free version of Teams with limited features. Full featur
 - Reset password if needed.
 - Disable VPNs temporarily.
 - Verify MFA codes.
-
----
 
 ### 3. No Sound in Meetings or Calls
 
@@ -68,8 +62,6 @@ Yes, Microsoft offers a free version of Teams with limited features. Full featur
 - Update audio drivers.
 - Restart the device.
 
----
-
 ### 4. Video Not Working in Meetings
 
 **Possible Causes:**
@@ -81,8 +73,6 @@ Yes, Microsoft offers a free version of Teams with limited features. Full featur
 - Close other applications using the camera.
 - Select the correct camera in Teams settings.
 - Allow camera access through system privacy settings.
-
----
 
 ### 5. Can’t Share Screen in a Meeting
 
@@ -96,8 +86,6 @@ Yes, Microsoft offers a free version of Teams with limited features. Full featur
 - Restart Teams and your device.
 - For Mac users: Allow screen recording in system preferences.
 
----
-
 ### 6. Teams Notifications Not Working
 
 **Possible Causes:**
@@ -110,8 +98,6 @@ Yes, Microsoft offers a free version of Teams with limited features. Full featur
 - Check system-level notification permissions.
 - Restart Teams.
 
----
-
 ### 7. Can’t Add External Users (Guests) to a Team
 
 **Possible Causes:**
@@ -123,15 +109,11 @@ Yes, Microsoft offers a free version of Teams with limited features. Full featur
 - Update external sharing settings in Microsoft 365 Admin Center.
 - Invite external users using their valid email addresses.
 
----
-
 ### 8. How to Recover a Deleted Team or Channel
 
 **Solutions:**
 - **Teams:** Recover from **Microsoft 365 Admin Center** > **Groups** > **Deleted Groups**.
 - **Channels:** Manage the team, view **Deleted Channels**, and restore.
-
----
 
 ### 9. Teams Crashing or Freezing
 
@@ -145,9 +127,7 @@ Yes, Microsoft offers a free version of Teams with limited features. Full featur
 - Close unnecessary background apps.
 - Clear cache regularly.
 
----
-
-## 🛠️ Advanced Troubleshooting for IT Admins
+## Advanced Troubleshooting for IT Admins
 
 ### 1. How to Force Log Out Users
 
