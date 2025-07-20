@@ -2,8 +2,6 @@
 
 Power Automate allows you to build automated workflows that integrate seamlessly with Microsoft Teams. These flows can streamline communication, approvals, alerts, and task management within your Teams environment.
 
----
-
 ## Overview
 
 Power Automate enables users to:
@@ -11,8 +9,6 @@ Power Automate enables users to:
 - Trigger actions in Teams based on events in Microsoft 365 or third-party services.
 - Automate routine communications like welcome messages, reminders, or approvals.
 - Create flows that post to Teams when a record changes in SharePoint, Dataverse, Excel, or even external apps.
-
----
 
 ## Common Use Cases
 
@@ -45,8 +41,6 @@ Power Automate enables users to:
 - **Trigger:** “When a feed item is published” (RSS) or “When a new issue is created” (GitHub)
 - **Action:** “Post message in Teams”
 
----
-
 ## Setting Up a Flow
 
 1. Go to https://make.powerautomate.com
@@ -54,8 +48,6 @@ Power Automate enables users to:
 3. Select your trigger and add Teams actions
 4. Sign in to Teams if prompted
 5. Test your flow and monitor run history
-
----
 
 ## Teams Actions Available in Power Automate
 
@@ -67,8 +59,6 @@ Power Automate enables users to:
 | Add a member to a team             | Automates user provisioning into Teams                      |
 | Get team details                   | Pulls metadata about a specified team                       |
 
----
-
 ## Tips and Best Practices
 
 - Use dynamic content and variables to personalize messages.
@@ -77,15 +67,11 @@ Power Automate enables users to:
 - Monitor run history and enable notifications for flow failures.
 - Document flows for support and auditing.
 
----
-
 ## Security Considerations
 
 - Ensure users creating flows have the proper permissions in Teams and connected services.
 - Use Data Loss Prevention (DLP) policies to restrict connectors across environments.
 - Regularly audit shared and team-owned flows to ensure compliance.
-
----
 
 ## Resources
 
