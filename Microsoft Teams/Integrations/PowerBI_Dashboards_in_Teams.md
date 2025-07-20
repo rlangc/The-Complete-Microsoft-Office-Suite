@@ -2,8 +2,6 @@
 
 Power BI integrates directly with Microsoft Teams, allowing users to embed live dashboards, monitor KPIs, and collaborate on data insights without leaving the Teams environment. This guide outlines setup steps, use cases, and governance tips for embedding Power BI in Teams.
 
----
-
 ## Overview
 
 Power BI and Teams work together to:
@@ -11,8 +9,6 @@ Power BI and Teams work together to:
 - Embed reports and dashboards as tabs in Teams channels
 - Share insights during meetings and chats
 - Enable faster data-driven decisions within collaboration spaces
-
----
 
 ## How to Add a Power BI Dashboard to Teams
 
@@ -29,8 +25,6 @@ Power BI and Teams work together to:
 2. Click **File > Embed in Teams**.
 3. Select the target team and channel to post the report.
 
----
-
 ## Use Cases
 
 | Scenario                        | Benefit                                                |
@@ -40,15 +34,11 @@ Power BI and Teams work together to:
 | Project status reports           | Monitor timelines, risks, and milestones collaboratively|
 | Helpdesk or service dashboards   | Track ticket resolution and customer satisfaction      |
 
----
-
 ## Permissions and Licensing
 
 - Users must have a **Power BI Pro** or **Premium per User (PPU)** license to publish or view shared reports.
 - Reports must reside in a **shared workspace**, not just in My Workspace.
 - Ensure that team members have view or contributor permissions to access the embedded reports.
-
----
 
 ## Best Practices
 
@@ -57,15 +47,11 @@ Power BI and Teams work together to:
 - Limit the number of visualizations per report tab for performance and clarity.
 - Regularly review report usage and refresh schedules.
 
----
-
 ## Security Considerations
 
 - Audit report access via Power BI usage metrics and audit logs.
 - Avoid embedding sensitive financial or HR reports unless secured by RLS.
 - Align report data with compliance requirements (GDPR, HIPAA, etc.).
-
----
 
 ## Resources
 
