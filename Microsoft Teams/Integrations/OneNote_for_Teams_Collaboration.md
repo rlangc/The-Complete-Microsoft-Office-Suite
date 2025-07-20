@@ -2,8 +2,6 @@
 
 Microsoft OneNote integrates with Teams to provide a collaborative digital notebook for meeting notes, brainstorming, training materials, and documentation. This guide explains how to use OneNote effectively within Teams channels and meetings.
 
----
-
 ## Overview
 
 OneNote in Teams allows users to:
@@ -12,8 +10,6 @@ OneNote in Teams allows users to:
 - Take collaborative notes during meetings
 - Organize content into sections and pages
 - Access notes across devices via Microsoft 365
-
----
 
 ## How to Add OneNote to a Teams Channel
 
@@ -25,16 +21,12 @@ OneNote in Teams allows users to:
 
 Team members can now contribute to the notebook collaboratively in real time.
 
----
-
 ## Using OneNote in Meetings
 
 - Add a OneNote section to the meeting invite via Outlook or Teams.
 - Take meeting notes directly during the session.
 - Tag action items, decisions, or follow-ups.
 - Store agendas and reference materials in advance.
-
----
 
 ## Common Use Cases
 
@@ -45,8 +37,6 @@ Team members can now contribute to the notebook collaboratively in real time.
 | Onboarding handbook     | Create a shared reference for new hires                |
 | Brainstorming sessions  | Collaborate on ideas and feedback in real time         |
 
----
-
 ## Tips and Best Practices
 
 - Use section groups for multi-team or multi-project notebooks.
@@ -55,23 +45,17 @@ Team members can now contribute to the notebook collaboratively in real time.
 - Sync changes across devices for mobile and remote accessibility.
 - Assign follow-up actions using To Do integration or Outlook flags.
 
----
-
 ## Permissions and Access
 
 - Access is managed by team membership in Microsoft 365.
 - Notebooks are stored in the linked SharePoint site under “Site Assets.”
 - Only team members can view or edit the notebook unless externally shared.
 
----
-
 ## Security Considerations
 
 - Use version history to restore previous notes or content.
 - Ensure notebooks are included in backup and retention policies.
 - Use OneNote Class Notebooks for educator-specific functionality.
-
----
 
 ## Resources
 
