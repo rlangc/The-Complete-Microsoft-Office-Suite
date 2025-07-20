@@ -2,8 +2,6 @@
 
 Microsoft Teams allows integration with a wide range of third-party applications. This guide explains how to manage, approve, and govern these integrations through app permission policies, security controls, and organizational policies.
 
----
-
 ## Overview
 
 Admins can:
@@ -11,8 +9,6 @@ Admins can:
 - Enable or restrict specific third-party apps across the organization
 - Define user group permissions for app access
 - Monitor app usage and audit integrations for compliance
-
----
 
 ## App Permission Policies
 
@@ -37,8 +33,6 @@ App permission policies control which apps users can access within Teams.
 | Block social apps org-wide       | Block apps like Facebook or Twitter at the tenant level |
 | Allow dev tools for IT           | Permit GitHub, Jira, etc., for IT personnel         |
 
----
-
 ## App Setup Policies
 
 These define which apps are pinned by default and the order they appear in the Teams interface.
@@ -47,16 +41,12 @@ These define which apps are pinned by default and the order they appear in the T
 - Pin frequently used apps (e.g., Planner, Power BI, SharePoint)
 - Tailor setup policies per department or role
 
----
-
 ## App Management Best Practices
 
 - Use app catalog reviews to vet third-party integrations
 - Require apps to meet data handling and compliance requirements
 - Document approval workflows for new app requests
 - Regularly audit app usage reports in Admin Center
-
----
 
 ## Security and Compliance
 
@@ -65,15 +55,11 @@ These define which apps are pinned by default and the order they appear in the T
 - Enable conditional access policies for high-risk apps
 - Apply DLP policies to manage sensitive information within apps
 
----
-
 ## Monitoring and Reporting
 
 - Admin Center > Teams apps > Manage apps > Usage reports
 - View install metrics, access patterns, and usage frequency
 - Use audit logs to track who enabled or disabled apps
-
----
 
 ## Resources
 
