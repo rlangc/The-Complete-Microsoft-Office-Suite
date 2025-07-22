@@ -75,4 +75,4 @@ Common use cases:
 
 ## Summary
 
-Page layout and design tools in Microsoft Word offer powerful ways to structure your documents for clarity, consistency, and visual appeal. From simple changes like adjusting margins to advanced formatting using section breaks and themes, these tools give you control over how content appears on the page—ensuring a professional finish that aligns with your purpose and audience.
+Page layout and design tools in Microsoft Word offer powerful ways to structure your documents for clarity, consistency, and visual appeal. From simple changes like adjusting margins to advanced formatting using section breaks and themes, these tools give you control over how content appears on the page, ensuring a professional finish that aligns with your purpose and audience.
