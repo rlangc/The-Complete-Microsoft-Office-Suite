@@ -2,9 +2,7 @@
 
 If users are missing Teams notifications, it can affect collaboration and response times. This guide outlines how to diagnose and resolve issues related to banner alerts, emails, and feed notifications.
 
----
-
-## 🔍 Common Notification Issues
+## Common Notification Issues
 
 - No banners or sounds when receiving messages
 - Notifications delayed or only visible in activity feed
@@ -12,9 +10,7 @@ If users are missing Teams notifications, it can affect collaboration and respon
 - No badge count updates on desktop or mobile
 - Quiet Hours or Focus Assist interfering with alerts
 
----
-
-## ✅ User-Side Troubleshooting
+## User-Side Troubleshooting
 
 ### 1. Verify Teams Notification Settings
 
@@ -40,17 +36,13 @@ If users are missing Teams notifications, it can affect collaboration and respon
 - Windows: **Action Center > Focus Assist** should be set to Off
 - Mac: Check **Do Not Disturb** in **Control Center** or scheduled hours
 
----
-
-## 📱 Mobile Notifications
+## Mobile Notifications
 
 - Open Teams > Tap your profile > **Notifications**
 - Check push notification settings for calls, mentions, and messages
 - Ensure OS-level permissions are enabled (iOS/Android Settings)
 
----
-
-## 🔄 Advanced Tips
+## Advanced Tips
 
 | Issue | Fix |
 |-------|-----|
@@ -59,17 +51,13 @@ If users are missing Teams notifications, it can affect collaboration and respon
 | Notification sounds missing | Re-enable sound alerts in Teams settings |
 | No alerts during screen sharing | Teams suppresses alerts by design |
 
----
-
-## 🛠 Admin-Level Checks
+## Admin-Level Checks
 
 - Confirm meeting/chat policies do not suppress alerts
 - Check if a Quiet Hours policy is applied via Intune or endpoint manager
 - Audit Teams update history for known notification bugs
 
----
-
-## 📚 Resources
+## Resources
 
 - Configure Notifications:  
   https://support.microsoft.com/en-us/office/manage-notifications-in-teams-1e6f0aa5-2a4b-4d55-8b11-8f331ec7945c
