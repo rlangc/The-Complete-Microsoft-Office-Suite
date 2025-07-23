@@ -2,18 +2,14 @@
 
 Guest access allows external users to join teams, channels, and meetings. If guests are experiencing issues accessing Teams content, this guide provides steps to troubleshoot common problems.
 
----
-
-## 🔍 Common Guest Access Issues
+## Common Guest Access Issues
 
 - Guest can't join a Team or channel
 - Guest invited but never receives email
 - Guest can join a meeting but not view chat or files
 - Error: "You don’t have access" or "Request access denied"
 
----
-
-## ✅ Checklist for Meeting Organizers or Team Owners
+## Checklist for Meeting Organizers or Team Owners
 
 ### 1. Confirm Guest Invitation
 
@@ -32,9 +28,7 @@ Guest access allows external users to join teams, channels, and meetings. If gue
 - Ensure **Guest access is turned ON**
 - Confirm chat, calling, and meeting permissions for guests are enabled
 
----
-
-## 🛠 Admin-Level Configuration
+## Admin-Level Configuration
 
 ### 1. Azure AD Guest Access
 
@@ -57,17 +51,13 @@ Get-AzureADGroup -SearchString "Team Name" | Get-AzureADGroupSetting
 - Ensure Conditional Access policies aren't blocking guest sign-in
 - Check MFA requirements for external users
 
----
-
-## 🔄 Tips for Guest Users
+## Tips for Guest Users
 
 - Use Microsoft Edge or Google Chrome for best experience
 - If issues persist, clear browser cookies or try incognito mode
 - Ensure pop-ups and third-party cookies are not blocked
 
----
-
-## 📚 Resources
+## Resources
 
 - Enable Guest Access in Teams:  
   https://learn.microsoft.com/en-us/microsoftteams/guest-access
