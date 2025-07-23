@@ -2,9 +2,7 @@
 
 Microsoft Teams requires stable internet connectivity and access to specific Microsoft 365 services to function correctly. This guide provides a step-by-step checklist to diagnose and resolve common network-related issues in Teams.
 
----
-
-## 🔍 Symptoms of Network Issues
+## Symptoms of Network Issues
 
 - Calls drop unexpectedly or are choppy
 - Delayed or undelivered messages
@@ -12,9 +10,7 @@ Microsoft Teams requires stable internet connectivity and access to specific Mic
 - Failure to join meetings or load Teams interface
 - Frequent reconnection attempts
 
----
-
-## ✅ Basic Connectivity Checks
+## Basic Connectivity Checks
 
 1. **Test Internet Speed**
    - Ensure a minimum of 1.2 Mbps upload/download per user for high-quality video.
@@ -27,9 +23,7 @@ Microsoft Teams requires stable internet connectivity and access to specific Mic
 3. **Switch Networks**
    - Try connecting to a different Wi-Fi or switch to a wired Ethernet connection.
 
----
-
-## 🌐 Domain and Port Requirements
+## Domain and Port Requirements
 
 Teams relies on access to Microsoft 365 endpoints.
 
@@ -49,9 +43,7 @@ Full list: [Microsoft 365 URLs and IP ranges](https://learn.microsoft.com/en-us/
 | TCP      | 443  | HTTPS (Teams signaling) |
 | UDP      | 3478–3481 | Media traffic (audio/video/screen sharing) |
 
----
-
-## 🛠 Advanced Troubleshooting
+## Advanced Troubleshooting
 
 - **Run Teams Network Planner**  
   Use the built-in [Network Planner](https://aka.ms/teamsnetworkplanner) to model Teams bandwidth needs.
@@ -65,25 +57,19 @@ Full list: [Microsoft 365 URLs and IP ranges](https://learn.microsoft.com/en-us/
 - **Check VPN Configuration**  
   VPNs may throttle traffic or block UDP. Use split tunneling for Teams domains when possible.
 
----
-
-## 🧪 Diagnostic Tools
+## Diagnostic Tools
 
 - `Teams Connectivity Test` (browser): https://connectivity.office.com/
 - `Microsoft Support and Recovery Assistant (SaRA)`: https://aka.ms/SaRA-Teams
 - Ping/traceroute to test route latency and packet loss
 
----
-
-## 📄 Escalation Guidance
+## Escalation Guidance
 
 If issues persist after local checks:
 
 - Open Microsoft 365 Admin Center
 - Navigate to **Health > Service Health**
 - Submit a support request if a Teams service degradation is not listed
-
----
 
 ## Related Resources
 
