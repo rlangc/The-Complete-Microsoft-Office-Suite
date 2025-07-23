@@ -2,9 +2,7 @@
 
 Microsoft Teams is available as both a desktop app and a web app. While they offer similar functionality, there are key differences that may affect troubleshooting and support. This guide outlines the common issues and considerations when diagnosing problems across the two platforms.
 
----
-
-## 🖥 Desktop App Overview
+## Desktop App Overview
 
 - Native application for Windows and macOS
 - Offers richer feature set including background effects, system tray integration, and better performance for large meetings
@@ -19,9 +17,7 @@ Microsoft Teams is available as both a desktop app and a web app. While they off
 | Audio/video not working | Device driver issue | Check device settings and drivers |
 | Notification failure | OS settings or Teams focus assist | Check Windows/macOS notification settings |
 
----
-
-## 🌐 Web App Overview
+## Web App Overview
 
 - Runs in supported browsers (Edge, Chrome, Firefox)
 - Limited features compared to desktop (e.g., no background blur in Firefox)
@@ -37,9 +33,7 @@ Microsoft Teams is available as both a desktop app and a web app. While they off
 | Login issues | Cookies or cache | Clear browser cache or try Incognito mode |
 | Missing features | Browser limitations | Switch to desktop app or supported browser |
 
----
-
-## 🔄 When to Switch Between Versions
+## When to Switch Between Versions
 
 | Use Case | Recommended Client |
 |----------|--------------------|
@@ -48,18 +42,14 @@ Microsoft Teams is available as both a desktop app and a web app. While they off
 | Troubleshooting sign-in or installation issues | Web |
 | Using Teams on a lightweight system | Web |
 
----
-
-## 🔧 Troubleshooting Tips
+## Troubleshooting Tips
 
 - Always ensure Teams is up to date (desktop: auto-updates, web: clear cache or refresh)
 - Use browser DevTools to view console logs for web app errors
 - Compare behavior between desktop and web to isolate platform-specific issues
 - Use task manager or activity monitor to check Teams resource usage
 
----
-
-## 📚 Resources
+## Resources
 
 - Teams Feature Comparison (Web vs Desktop):  
   https://learn.microsoft.com/en-us/microsoftteams/hardware-requirements#teams-web-app
