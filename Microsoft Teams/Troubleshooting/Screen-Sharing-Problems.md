@@ -2,9 +2,7 @@
 
 Screen sharing is a core feature in Teams, but it can fail due to browser restrictions, outdated software, policy settings, or conflicting applications. This guide outlines how to resolve common issues.
 
----
-
-## 🔍 Common Screen Sharing Issues
+## Common Screen Sharing Issues
 
 - "Screen sharing failed" message
 - Grey or blank screen shared
@@ -12,9 +10,7 @@ Screen sharing is a core feature in Teams, but it can fail due to browser restri
 - Screen share button is grayed out
 - Screen share ends unexpectedly
 
----
-
-## ✅ User-Level Troubleshooting
+## User-Level Troubleshooting
 
 ### 1. Confirm Teams Version
 
@@ -35,9 +31,7 @@ Screen sharing is a core feature in Teams, but it can fail due to browser restri
 - Quit Teams and relaunch
 - Close other conferencing apps (Zoom, Skype, etc.)
 
----
-
-## 🌐 Browser-Specific Tips
+## Browser-Specific Tips
 
 | Browser | Troubleshooting |
 |---------|-----------------|
@@ -49,9 +43,7 @@ Screen sharing is a core feature in Teams, but it can fail due to browser restri
 - Clear browser cache and try again
 - Use Incognito Mode to test for extension conflicts
 
----
-
-## 🛠 Admin-Level Settings
+## Admin-Level Settings
 
 - Check **Meeting Policies** in Teams Admin Center:
   - Ensure **Screen sharing mode** is set to **Entire screen or single application**
@@ -59,17 +51,13 @@ Screen sharing is a core feature in Teams, but it can fail due to browser restri
 
 - Review Conditional Access or Endpoint Protection tools that may block screen capture
 
----
-
-## 🔧 Advanced Fixes
+## Advanced Fixes
 
 - Use a wired connection for stability
 - Switch to "Window" sharing if full screen fails
 - If on VDI (Virtual Desktop Infrastructure), ensure screen sharing is supported in that environment
 
----
-
-## 📚 Resources
+## Resources
 
 - Screen Sharing Requirements:  
   https://learn.microsoft.com/en-us/microsoftteams/hardware-requirements#screen-sharing
