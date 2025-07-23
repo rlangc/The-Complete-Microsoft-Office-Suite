@@ -2,9 +2,7 @@
 
 When users are unable to join a Microsoft Teams meeting, the issue may be due to authentication errors, calendar sync failures, browser settings, or policy restrictions. This guide provides structured steps to diagnose and resolve join issues.
 
----
-
-## 🔍 Common Symptoms
+## Common Symptoms
 
 - “Something went wrong” error when clicking join link
 - Stuck on “Connecting…” screen
@@ -12,9 +10,7 @@ When users are unable to join a Microsoft Teams meeting, the issue may be due to
 - Meeting link opens Teams but not the meeting
 - Audio/Video devices not connecting after joining
 
----
-
-## ✅ Step-by-Step Troubleshooting
+## Step-by-Step Troubleshooting
 
 ### 1. Check Join Method
 
@@ -50,9 +46,7 @@ When users are unable to join a Microsoft Teams meeting, the issue may be due to
   - Open meeting options > "Who can bypass the lobby"
   - Ensure guest emails are invited properly
 
----
-
-## 🔒 Meeting Policy Settings (Admin-Level)
+## Meeting Policy Settings (Admin-Level)
 
 | Setting | Impact |
 |---------|--------|
@@ -63,25 +57,19 @@ When users are unable to join a Microsoft Teams meeting, the issue may be due to
 Admins can adjust these under:  
 **Teams Admin Center > Meetings > Meeting Policies**
 
----
-
-## 🧪 Diagnostic Tips
+## Diagnostic Tips
 
 - Run Teams Meeting Join Troubleshooter in SaRA tool: https://aka.ms/SaRA-Teams
 - Try from a different network or device
 - Ensure Teams service is healthy: https://portal.office.com/servicestatus
 
----
-
-## 📞 Escalation
+## Escalation
 
 If all steps fail:
 
 - Ask the meeting organizer to resend the invite
 - Use a direct link (copy-paste into browser)
 - Open a Microsoft 365 support ticket via Admin Center
-
----
 
 ## Resources
 
