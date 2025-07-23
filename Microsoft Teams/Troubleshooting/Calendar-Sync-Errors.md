@@ -2,18 +2,14 @@
 
 Microsoft Teams syncs with Outlook and Exchange Online to display calendar events. If meetings are missing or outdated, this guide provides steps to resolve sync issues between Teams and users' calendars.
 
----
-
-## 🔍 Symptoms of Calendar Sync Issues
+## Symptoms of Calendar Sync Issues
 
 - Calendar tab in Teams is empty or missing meetings
 - New Outlook events don’t appear in Teams
 - Error: “We couldn’t find your calendar”
 - Inconsistent time zones between Outlook and Teams
 
----
-
-## ✅ Checklist: End-User Fixes
+## Checklist: End-User Fixes
 
 ### 1. Verify Outlook Access
 
@@ -36,9 +32,7 @@ Microsoft Teams syncs with Outlook and Exchange Online to display calendar event
   - Teams: **Settings > General > Language**
   - Outlook Web: **Settings > View all Outlook settings > General > Language and time**
 
----
-
-## 🛠 Admin Troubleshooting
+## Admin Troubleshooting
 
 ### 1. Check Microsoft Exchange Online License
 
@@ -55,9 +49,7 @@ Microsoft Teams syncs with Outlook and Exchange Online to display calendar event
 - Go to Teams Admin Center > Users
 - Ensure correct meeting policy is assigned
 
----
-
-## 🔄 Diagnostic Tools
+## Diagnostic Tools
 
 - Run **Microsoft Support and Recovery Assistant (SaRA)** with the “Outlook/Teams Calendar” troubleshooter:  
   https://aka.ms/SaRA-CalendarIssues
@@ -67,9 +59,7 @@ Microsoft Teams syncs with Outlook and Exchange Online to display calendar event
   Get-Mailbox -Identity user@domain.com | FL Name, RecipientTypeDetails, RemoteRoutingAddress
   ```
 
----
-
-## 📚 Resources
+## Resources
 
 - Calendar Integration Overview:  
   https://learn.microsoft.com/en-us/microsoftteams/exchange-teams-interact
