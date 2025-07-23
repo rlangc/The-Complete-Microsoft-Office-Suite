@@ -2,9 +2,7 @@
 
 Sign-in issues can prevent users from accessing Microsoft Teams, typically due to licensing, authentication, or cached credentials. This guide walks through how to identify and fix common sign-in errors.
 
----
-
-## 🔍 Common Sign-In Symptoms
+## Common Sign-In Symptoms
 
 - Stuck on "Signing in..."
 - Error: “You’re missing out! Ask your admin to enable Microsoft Teams.”
@@ -12,9 +10,7 @@ Sign-in issues can prevent users from accessing Microsoft Teams, typically due t
 - MFA prompt keeps reappearing
 - Error codes (e.g., CAA2000B, CAA30194)
 
----
-
-## ✅ User-Level Solutions
+## User-Level Solutions
 
 ### 1. Restart and Try Web App
 
@@ -40,9 +36,7 @@ Sign-in issues can prevent users from accessing Microsoft Teams, typically due t
 - Open **Credential Manager**
 - Delete any entries related to Microsoft Teams, Office365, or ADAL
 
----
-
-## 🛠 Admin-Level Troubleshooting
+## Admin-Level Troubleshooting
 
 ### 1. Confirm License Assignment
 
@@ -61,9 +55,7 @@ Sign-in issues can prevent users from accessing Microsoft Teams, typically due t
 - Ensure the user is not using outdated authentication protocols
 - Confirm account is not disabled or locked
 
----
-
-## 🔄 Other Fixes
+## Other Fixes
 
 | Symptom | Resolution |
 |---------|------------|
@@ -71,9 +63,7 @@ Sign-in issues can prevent users from accessing Microsoft Teams, typically due t
 | "Ask your admin..." error | Assign proper licenses and validate user in Azure AD |
 | Teams signs in but fails to load | Use clean reinstall or reset Teams settings |
 
----
-
-## 🧪 Tools and Resources
+## Tools and Resources
 
 - Microsoft Support and Recovery Assistant (SaRA):  
   https://aka.ms/SaRA-Teams
@@ -83,8 +73,6 @@ Sign-in issues can prevent users from accessing Microsoft Teams, typically due t
 
 - Teams Troubleshooting Guide:  
   https://learn.microsoft.com/en-us/microsoftteams/troubleshoot/teams-sign-in
-
----
 
 ## Escalation Path
 
